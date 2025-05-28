@@ -1,7 +1,7 @@
-= Turicum Programming Language Reference
+# Turicum Programming Language Reference
 
-pass:[[]`https://github.com/verhas/turicum[GITHUB REPO]`]
-pass:[[]`link:blog/index.md[ARTICLES]`]
+[`GITHUB REPO`](https://github.com/verhas/turicum)
+[`ARTICLES](blog/index.md)
 
 
 Turicum is a modern programming language designed for expressiveness, safety, and concurrency.
