@@ -1,0 +1,5 @@
+mut person = {
+  name: "Alice",
+  age: 30
+}
+println(person.name)  // Alice

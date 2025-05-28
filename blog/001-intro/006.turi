@@ -1,0 +1,6 @@
+mut my_if = macro(
+  {|cond, then, `else`|
+    if evaluate(cond): evaluate(then) else: evaluate(`else`)
+  }
+)
+my_if(true, (println "yes"), (println "no"))  // prints: yes

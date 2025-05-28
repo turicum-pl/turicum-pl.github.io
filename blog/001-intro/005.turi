@@ -1,0 +1,6 @@
+mut root = (flow until abs(a * a - 13) < 0.0001 {
+  a <- 13
+  a <- (a + 13 / a) / 2
+  yield a
+})
+println(root)  // ≈ 3.605...

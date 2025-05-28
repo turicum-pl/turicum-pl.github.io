@@ -1,0 +1,7 @@
+mut task = async {
+  for i = 1 ; i <= 3 ; i = i + 1 : yield i;
+  "done"
+}
+
+while task.has_next(): println(task.next());
+println(await task);  // done
