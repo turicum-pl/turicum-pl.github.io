@@ -428,7 +428,7 @@ Create a `.mvn/extensions.xml` file with the following content:
     <extension>
         <groupId>ch.turic</groupId>
         <artifactId>turicum-maven-extension</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </extension>
 </extensions>
 ```
