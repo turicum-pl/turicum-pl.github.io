@@ -6,3 +6,4 @@
         {%#string:substring (begin=1) {%@include blog/fn%}%}%}
 %}
 
+
