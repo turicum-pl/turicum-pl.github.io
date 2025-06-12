@@ -45,7 +45,7 @@ Turicum is implemented in Java and is designed to be approachable for JVM develo
 
 The name “Turicum” is the ancient Roman name for the city of Zürich, Switzerland, where the language is being developed.
 
-=== Design Goals and Philosophy
+## Design Goals and Philosophy
 
 Turicum was designed with the following principles:
 
