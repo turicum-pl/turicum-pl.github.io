@@ -6,7 +6,7 @@
 
 Turicum is a modern programming language designed for expressiveness, safety, and concurrency.
 It combines functional and object-oriented paradigms with a clean and coherent syntax.
-Its preprocessing capabilities and dynamic nature make it a uniquely powerful tool for programming.
+Its preprocessing capabilities and dynamic nature make it a uniquely powerful tool for  programming.
 
 * **Functional**
 +
@@ -16,7 +16,7 @@ Every command evaluates to a value, so any command can appear within an expressi
 
 * **Object-Oriented**
 +
-Programs can define classes, methods, multiple inheritance,
+Programs can define classes, methods, and multiple inheritance,
 and objects that inherit properties from their class.
 
 * **Dynamic**
