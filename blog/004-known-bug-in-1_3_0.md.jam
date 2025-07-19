@@ -1,0 +1,5 @@
+# importing with wild card imports only one symbol
+
+Im port and sys import functions fail to recognize multiple symbols when they find one that matches a pattern.
+The workaround is not to use pattern for importing.
+The solution is to upgrade to 1.4.0

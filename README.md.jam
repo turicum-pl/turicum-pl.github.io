@@ -16,7 +16,7 @@ Every command evaluates to a value, so any command can appear within an expressi
 
 * **Object-Oriented**
 +
-Programs can define classes, methods, multiple inheritance,
+Programs can define classes, methods, and multiple inheritance,
 and objects that inherit properties from their class.
 
 * **Dynamic**
