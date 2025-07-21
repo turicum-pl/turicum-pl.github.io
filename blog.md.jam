@@ -1,4 +1,4 @@
-{%!#for [sep="\n"] fn in ({%#sort
+{%!#for [sep="\n"] fn in ({%#sort (reverse)
 {%@listDir (format="$simpleName" pattern=".*.md$" maxDepth=1 sep="\n") blog/%}%})
 =* [{%`@file (format=$bareNaked root="blog") fn%}](blog/fn)
   {%`#string:substring (begin=0 end=10) {%@file (format=$ctime root="blog") fn%}%}
